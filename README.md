@@ -51,11 +51,8 @@ counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Files used
-To answer these questions I've writen a Python script in a bikeshare.py file adding to three city dataset files:
+To answer these questions I've written a Python script in a bikeshare.py file adding to three city dataset files:
 
 chicago.csv
 new_york_city.csv
 washington.csv
-
-
-
