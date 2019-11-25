@@ -58,3 +58,7 @@ new_york_city.csv
 washington.csv
 #Credit
 Udacity nanodegreed programs
+#Text Editor Info
+Sublime text and Atom were used for this project
+
+
